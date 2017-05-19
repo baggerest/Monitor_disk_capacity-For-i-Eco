@@ -1,0 +1,9 @@
+D:\vs2017\c#\Monitor_disk_capacity For i-Eco\Monitor_disk_capacity For i-Eco\bin\Debug\Monitor_disk_capacity For i-Eco.exe.config
+D:\vs2017\c#\Monitor_disk_capacity For i-Eco\Monitor_disk_capacity For i-Eco\bin\Debug\Monitor_disk_capacity For i-Eco.exe
+D:\vs2017\c#\Monitor_disk_capacity For i-Eco\Monitor_disk_capacity For i-Eco\bin\Debug\Monitor_disk_capacity For i-Eco.pdb
+D:\vs2017\c#\Monitor_disk_capacity For i-Eco\Monitor_disk_capacity For i-Eco\obj\Debug\Monitor_disk_capacity_For_i_Eco.Form1.resources
+D:\vs2017\c#\Monitor_disk_capacity For i-Eco\Monitor_disk_capacity For i-Eco\obj\Debug\Monitor_disk_capacity_For_i_Eco.Properties.Resources.resources
+D:\vs2017\c#\Monitor_disk_capacity For i-Eco\Monitor_disk_capacity For i-Eco\obj\Debug\Monitor_disk_capacity For i-Eco.csproj.GenerateResource.Cache
+D:\vs2017\c#\Monitor_disk_capacity For i-Eco\Monitor_disk_capacity For i-Eco\obj\Debug\Monitor_disk_capacity For i-Eco.exe
+D:\vs2017\c#\Monitor_disk_capacity For i-Eco\Monitor_disk_capacity For i-Eco\obj\Debug\Monitor_disk_capacity For i-Eco.pdb
+D:\vs2017\c#\Monitor_disk_capacity For i-Eco\Monitor_disk_capacity For i-Eco\obj\Debug\Monitor_disk_capacity For i-Eco.csprojResolveAssemblyReference.cache
